@@ -1,8 +1,9 @@
-import Controllerd from "./controllerd";
+import Todo from "./todo";
 
 function App() {
   return <div>
-    <Controllerd/>
+    <Todo/>
+
   </div>;
 }
 
